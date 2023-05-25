@@ -19,6 +19,7 @@ We are working on AI Image generation and maybe TTS in the future.
 ## 📚 Our Projects 
 
 - **Future Projects**
+  - Unnamed TTS project
   - OpenNiji-V3 *(placeholder name)*
 
 - **Previous Projects**
