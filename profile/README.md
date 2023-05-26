@@ -9,7 +9,7 @@
 ## 🔎 What is ShoukanLabs?
 
 We are a tiny group of AI enthusiasts founded by ButterCream, and currently comprised of: 
-- [ButterCream](https://github.com/korakoe) 
+- **[ButterCream](https://github.com/korakoe)**
 - [AshtakaOOf](https://github.com/AshtakaOOf) 
 - [This is Alex](https://github.com/This-Is-Alex) 
 - [High Speed Rail Enjoyer](https://github.com/Ihateyoudattebayo) 
@@ -23,6 +23,6 @@ We are working on AI Image generation and maybe TTS in the future.
   - OpenNiji-V3 *(placeholder name)*
 
 - **Previous Projects**
-  - [OpenNiji-V2](https://huggingface.co/Korakoe/OpenNiji-V2)
-  - [OpenNiji](https://huggingface.co/Korakoe/OpenNiji)
-  - [OpenNiji-V2-Dataset](https://huggingface.co/datasets/Korakoe/OpenNiji-V2-Dataset)
+  - [OpenNiji](https://huggingface.co/Korakoe/OpenNiji) - A LoRA finetune aimed at replicating Nijijourney on Stable Diffusion.
+  - [OpenNiji-V2](https://huggingface.co/Korakoe/OpenNiji-V2) - A second LoRA finetune made to replicate the Nijijourney style more accurately.
+  - [OpenNiji-V2-Dataset](https://huggingface.co/datasets/Korakoe/OpenNiji-V2-Dataset) - The dataset used to finetune OpenNiji-V2.
