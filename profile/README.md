@@ -23,6 +23,6 @@ We are working on AI Image generation and maybe TTS in the future.
   - OpenNiji-V3 *(placeholder name)*
 
 - **Previous Projects**
-  - [OpenNiji](https://huggingface.co/Korakoe/OpenNiji) - A LoRA finetune aimed at replicating Nijijourney on Stable Diffusion.
-  - [OpenNiji-V2](https://huggingface.co/Korakoe/OpenNiji-V2) - A second LoRA finetune made to replicate the Nijijourney style more accurately.
+  - [OpenNiji](https://huggingface.co/Korakoe/OpenNiji) - A finetune aimed at replicating Nijijourney on Stable Diffusion.
+  - [OpenNiji-V2](https://huggingface.co/Korakoe/OpenNiji-V2) - A second finetune made to replicate the Nijijourney style more accurately.
   - [OpenNiji-V2-Dataset](https://huggingface.co/datasets/Korakoe/OpenNiji-V2-Dataset) - The dataset used to finetune OpenNiji-V2.
