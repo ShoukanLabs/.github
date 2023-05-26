@@ -11,7 +11,7 @@
 We are a tiny group of AI enthusiasts founded by ButterCream, and currently comprised of: 
 - **[ButterCream](https://github.com/korakoe)**
 - [AshtakaOOf](https://github.com/AshtakaOOf) 
-- [This is Alex](https://github.com/This-Is-Alex) 
+- [Alex](https://github.com/MFAlex/)
 - [High Speed Rail Enjoyer](https://github.com/Ihateyoudattebayo) 
 
 We are working on AI Image generation and maybe TTS in the future.
