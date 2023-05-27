@@ -22,7 +22,10 @@ We are working on AI Image generation and maybe TTS in the future.
   - Unnamed TTS project
   - OpenNiji-V3 *(placeholder name)*
 
+- **Current Projects**
+  - [OpenNiji-Dataset](https://huggingface.co/datasets/ShoukanLabs/OpenNiji-Dataset) - The dataset that will be used for OpenNiji-V3
+    - [Dataset preview](https://huggingface.co/spaces/ShoukanLabs/OpenNiji-Dataset-Viewer) - See what images the dataset contains
+
 - **Previous Projects**
-  - [OpenNiji](https://huggingface.co/Korakoe/OpenNiji) - A finetune aimed at replicating Nijijourney on Stable Diffusion.
-  - [OpenNiji-V2](https://huggingface.co/Korakoe/OpenNiji-V2) - A second finetune made to replicate the Nijijourney style more accurately.
-  - [OpenNiji-V2-Dataset](https://huggingface.co/datasets/Korakoe/OpenNiji-V2-Dataset) - The dataset used to finetune OpenNiji-V2.
+  - [OpenNiji](https://huggingface.co/ShoukanLabs/OpenNiji) - A finetune aimed at replicating Nijijourney on Stable Diffusion.
+  - [OpenNiji-V2](https://huggingface.co/ShoukanLabs/OpenNiji-V2) - A second finetune made to replicate the Nijijourney style more accurately.
