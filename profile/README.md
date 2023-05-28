@@ -1,6 +1,6 @@
-<hr> 
+<p align="center"><img src="https://raw.githubusercontent.com/ShoukanLabs/.github/main/profile/ShoukanLab-circle.png" width="256"></p>
 
-# **<p align="center">🧪 ShoukanLabs ー召喚Labsー</p>**
+# <p align="center">🧪 ShoukanLabs ー召喚Labsー</p>
 
 <p align="center">Shoukan 召喚【しょうかん】 ー can be translated into either Summon or Summoning.</p>
 
