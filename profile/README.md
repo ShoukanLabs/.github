@@ -4,6 +4,8 @@
 
 <p align="center">Shoukan 召喚【しょうかん】 ー can be translated into either Summon or Summoning.</p>
 
+<p align="center">Join our Discord at: https://discord.gg/5bq9HqVhsJ</p>
+
 <hr>
 
 ## 🔎 What is ShoukanLabs?
