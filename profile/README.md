@@ -34,4 +34,6 @@ We are working on AI Image generation and maybe TTS in the future.
 
 ## Announcements
 <p align="center"><img src="https://raw.githubusercontent.com/ShoukanLabs/.github/main/profile/Shoukan%20x%20Sygil.png" width="720"></p>
-We are happy to announce a partnership with **[Sygil.dev!](https://github.com/Sygil-Dev)** We're working on some massive things together and hope to share them with you **soon!**
+
+
+- We are happy to announce a partnership with **[Sygil.dev!](https://github.com/Sygil-Dev)** We're working on some massive things together and hope to share them with you **soon!**
