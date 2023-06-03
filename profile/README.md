@@ -31,3 +31,7 @@ We are working on AI Image generation and maybe TTS in the future.
 - **Previous Projects**
   - [OpenNiji](https://huggingface.co/ShoukanLabs/OpenNiji) - A finetune aimed at replicating Nijijourney on Stable Diffusion.
   - [OpenNiji-V2](https://huggingface.co/ShoukanLabs/OpenNiji-V2) - A second finetune made to replicate the Nijijourney style more accurately.
+
+## Announcements
+<p align="center"><img src="https://raw.githubusercontent.com/ShoukanLabs/.github/main/profile/Shoukan%20x%20Sygil.png" width="720"></p>
+We are happy to announce a partnership with **[Sygil.dev!](https://github.com/Sygil-Dev)** We're working on some massive things together and hope to share them with you **soon!**
