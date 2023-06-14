@@ -15,6 +15,9 @@ We are a tiny group of AI enthusiasts founded by ButterCream, and currently comp
 - [AshtakaOOf](https://github.com/AshtakaOOf) 
 - [Alex](https://github.com/MFAlex/)
 - [High Speed Rail Enjoyer](https://github.com/Ihateyoudattebayo) 
+- [Neggles](https://github.com/neggles) 
+- [ZeroCool](https://github.com/ZeroCool940711)
+- [camenduru](https://github.com/camenduru)
 
 We are working on AI Image generation and maybe TTS in the future.
 
