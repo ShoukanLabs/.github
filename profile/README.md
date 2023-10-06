@@ -25,9 +25,10 @@ We are working on AI Image generation and maybe TTS in the future.
 
 - **Future Projects**
   - Unnamed TTS project
-  - OpenNiji-V3 *(placeholder name)*
+  - OpenNiji-V3 *(placeholder name | Most likely to be built on [Muse](https://github.com/Sygil-Dev/muse-maskgit-pytorch))*
 
 - **Current Projects**
+  - [Muse](https://github.com/Sygil-Dev/muse-maskgit-pytorch) - A new architecture for efficient text2image generation, based on the [Google Paper](https://arxiv.org/abs/2301.00704)
   - [OpenNiji-Dataset](https://huggingface.co/datasets/ShoukanLabs/OpenNiji-Dataset) - The dataset that will be used for OpenNiji-V3
     - [Dataset preview](https://huggingface.co/spaces/ShoukanLabs/OpenNiji-Dataset-Viewer) - See what images the dataset contains
 
