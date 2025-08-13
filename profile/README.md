@@ -33,7 +33,7 @@ Here are our members.
 
 - **Current Projects**
   - A Large collection of projects surrounding TTS
-    - Vokan-V2 - An iterative improvement on the Vokan TTS model, featuring several architectural improvements.
+    - Kalliope
       - *More details soon...*™️
     - [VoPho](https://github.com/ShoukanLabs/VoPho) - A universal meta-library for phonemisation under the MIT license, with support for single language and multi-code text! These phonemisers go under an accuracy verification process, to esnure the outputs are sound.
     - VokanPipe - Our dataset curation tool designed to make dataset production simple, efficient, and largely unsupervised. 
